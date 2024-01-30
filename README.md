@@ -11,6 +11,6 @@ Following a successful transaction, the user will receive transaction details, i
 This approach ensures transparency and reliability in tracking and confirming transactions within the decentralized network.
 
 
-Note:
+**Note:**
 
 For running the project, it is recommended to utilize Ganache.
